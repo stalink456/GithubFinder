@@ -6,7 +6,7 @@ import PropTypes from "prop-types";
 function Navbar({ title }) {
   return (
     <nav
-      className="navbar mb-12 shadow-lg bg-neutral 
+      className="navbar shadow-lg bg-neutral 
     text-neutral-content text-white"
     >
       <div className="container mx-auto">
